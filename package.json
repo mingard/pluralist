@@ -1,6 +1,6 @@
 {
   "name": "pluralist",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Pluralist and singular string manipulation",
   "main": "index.js",
   "repository": {
@@ -21,7 +21,7 @@
     "url": "https://github.com/Mingard/pluralist/issues"
   },
   "homepage": "https://github.com/Mingard/pluralist",
-  "_from": "pluralist@>=1.0.3- <1.1.0",
+  "_from": "pluralist@>=1.0.4- <1.1.0",
   "_npmVersion": "2.1.6",
   "_nodeVersion": "0.10.33",
   "_npmUser": {
